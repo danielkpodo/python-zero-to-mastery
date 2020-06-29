@@ -10,3 +10,5 @@
   - Actions
   - Best practices
 - A datatype is a value in python
+- Do not memorize things, understand what exist, how to use and always google
+- Essential: Do not learn a lang as if you are learning to get 100% on a test
