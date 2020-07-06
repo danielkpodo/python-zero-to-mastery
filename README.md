@@ -19,3 +19,6 @@ _My Journery in mastering python_
   - predictable
   - readable
   - DRY
+- A good function
+  - should do one thing really well
+  - It always return something
