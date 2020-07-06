@@ -1,5 +1,7 @@
 # Learning Python with Zero-to-Mastery Academy
 
+## My self notes and reference guide for python
+
 _My Journery in mastering python_
 
 - Creater of python is `Guido Van Rosum`
@@ -22,3 +24,4 @@ _My Journery in mastering python_
 - A good function
   - should do one thing really well
   - It always return something
+- Always make your code predictable and clean
