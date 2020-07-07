@@ -25,3 +25,8 @@ _My Journery in mastering python_
   - should do one thing really well
   - It always return something
 - Always make your code predictable and clean
+- There are four main pillars of oop
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
