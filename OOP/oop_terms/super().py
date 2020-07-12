@@ -3,6 +3,7 @@
 # To do this you pass the parameters you want to inherit to the __init__ func and call super
 # To do this we do super__init__(the attibutes we want to inherit)
 # super side in child takes the self argument
+# when using the super ignore the self attr
 
 class Programmer:
     def __init__(self, username, years, language):
