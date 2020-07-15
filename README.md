@@ -30,3 +30,4 @@ _My Journery in mastering python_
   - Abstraction
   - Inheritance
   - Polymorphism
+- You need to anticipate errors in your programme and handle them properly
